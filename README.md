@@ -2,7 +2,7 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 
 <h3>軟體介紹</h3>
 
-<p>軟體：使用 Processing 語言（Java）製作</p>
+<h4>軟體：</h4> <p>使用 Processing 語言（Java）製作</p>
 
 <h4>介紹：</h4>
 <ol>
@@ -10,8 +10,8 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
   <li>使用者可透過滑鼠、鍵盤與動畫互動
     <ul>
       <li>迷因動畫：使用者可透過滑鼠操作圓球的大小與旋轉速度</li>
-      <li>下雨動畫：使用者可控制下雨的角度與顏色</li>
-      <li>萬花筒：使用者可控制圖案的旋轉速度、大小、發射物體</li>
+      <li>下雨動畫(迎雨霏霏）：使用者可控制下雨的角度與顏色</li>
+      <li>萬花筒（殺老師變變變）：使用者可控制圖案的旋轉速度、大小、發射物體</li>
     </ul>
   </li>
   <li>根據動畫搭配適合的音效</li>
