@@ -19,7 +19,7 @@
 1. 新增 class item，增加球的多樣性
 2. 超出邊界的物體，再次初始化 x、y 位置，並重複播放
 
-3D宇宙
+3D宇宙:
 https://github.com/user-attachments/assets/a8dc3b1e-c5d9-44d7-856d-f031b8d42864
 
 
