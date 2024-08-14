@@ -43,3 +43,11 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
   </li>
 </ul>
 
+<video src="[video/cat.mp4](https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
+)"
+       poster="picture/cat.jpg"
+       width="1080" 
+       height="768" 
+       autoplay="true" 
+       controls="true" 
+</video>
