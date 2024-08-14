@@ -1,5 +1,9 @@
 https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 
+
+https://github.com/user-attachments/assets/a6793fff-2ff8-478f-9970-d4ee44fcdafb
+
+
 <h3>軟體介紹</h3>
 
 <h4>軟體：</h4> <p>使用 Processing 語言（Java）製作</p>
