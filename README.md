@@ -21,9 +21,7 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 1. 新增 class item，增加球的多樣性
 2. 超出邊界的物體，再次初始化 x、y 位置，並重複播放
 
-<div style="width: 100%; max-width: 800px; margin: auto;">
-  <img src="https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5" alt="淨零排放小遊戲 Demo" style="width:100%; height:auto;">
-</div>
+
 
 
 
