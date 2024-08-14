@@ -1,5 +1,7 @@
 https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 
+<img width="832" alt="截圖 2024-08-15 凌晨3 33 46" src="https://github.com/user-attachments/assets/575e0349-e94d-497a-a038-e7c211107a36">
+
 
 <h3>軟體介紹</h3>
 
