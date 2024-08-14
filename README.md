@@ -22,6 +22,14 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 2. 超出邊界的物體，再次初始化 x、y 位置，並重複播放
 
 
+<h3>Video Preview</h3>
+
+<div style="width: 100%; max-width: 800px; margin: auto;">
+  <video width="100%" height="auto" controls>
+    <source src="https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 
 
