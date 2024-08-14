@@ -1,7 +1,13 @@
 https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
-<div style="width: 50%; height: auto;">
-  <iframe width="100%" height="315" src="https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>Video Title</h3>
+
+<div style="width: 100%; max-width: 800px; margin: auto;">
+  <video width="100%" height="auto" controls>
+    <source src="https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
+
 
 軟體：使用 Processing 語言（Java）製作
 
