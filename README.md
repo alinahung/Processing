@@ -1,6 +1,14 @@
 https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 
 軟體：使用 Processing 語言（Java）製作
+<h3>Video Preview</h3>
+
+<div style="width: 100%; max-width: 800px; margin: auto;">
+  <video width="100%" height="auto" controls>
+    <source src="https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 介紹：
 1. 運用線條、圖案、顏色的變化來創造視覺上的美感
