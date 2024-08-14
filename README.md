@@ -19,19 +19,19 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 
 <h4>遇到的問題與解決方式：</h4>
 
-<p><strong>1. 問題：</strong>下雨動畫的線條雨真實性不足。</p>
-<p><strong>解決方式：</strong></p>
-<ul>
-  <li>新增 class <code>raining</code>，大量製造線條（雨），用 <code>random</code> 使 x、y 位置隨機，z 變數隨機，以模擬遠近和視差效果。</li>
-  <li>用 <code>map</code> 函數使長度、速度、粗細隨著 z 變數而變化，模擬重力效果。</li>
-</ul>
+### 1. 問題：下雨動畫的線條雨真實性不足
 
-<p><strong>2. 問題：</strong>萬花筒變化單調，物體超出邊界則消失。</p>
-<p><strong>解決方式：</strong></p>
-<ul>
-  <li>新增 class <code>item</code>，增加球的多樣性。</li>
-  <li>對超出邊界的物體，重新初始化 x、y 位置，並重複播放。</li>
-</ul>
+**解決方式：**
+
+- 新增 class `raining`，大量製造線條（雨），使用 `random` 函數使 x、y 位置隨機，z 變數隨機，以模擬遠近和視差效果。
+- 使用 `map` 函數使長度、速度、粗細隨著 z 變數而變化，模擬重力效果。
+
+### 2. 問題：萬花筒變化單調，物體超出邊界則消失
+
+**解決方式：**
+
+- 新增 class `item`，增加球的多樣性。
+- 對超出邊界的物體，重新初始化 x、y 位置，並重複播放。
 
 
 
