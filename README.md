@@ -10,9 +10,9 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
   <li>運用線條、圖案、顏色的變化來創造視覺上的美感</li>
   <li>使用者可透過滑鼠、鍵盤與動畫互動
     <ul>
-      <li>迷因動畫：使用者可透過滑鼠操作圓球的大小與旋轉速度</li>
-      <li>下雨動畫(迎雨霏霏）：使用者可控制下雨的角度與顏色</li>
-      <li>萬花筒（殺老師變變變）：使用者可控制圖案的旋轉速度、大小、發射物體</li>
+      <li>殺老師變變變（迷因動畫）：使用者可透過滑鼠操作圓球的大小與旋轉速度</li>
+      <li>迎雨霏霏(下雨動畫）：使用者可控制下雨的角度與顏色</li>
+      <li>星輪幻彩（萬花筒）：使用者可控制圖案的旋轉速度、大小、發射物體</li>
     </ul>
   </li>
   <li>根據動畫搭配適合的音效</li>
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
 
 <ul>
   <li>
-    <strong>問題 1：</strong> 下雨動畫：線條雨真實性不足
+    <strong>問題 1：</strong> 迎雨霏霏(下雨動畫）：線條雨真實性不足
     <br><br>
     <strong>解決方式：</strong>
     <ul>
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
   <br>
   
   <li>
-    <strong>問題 2：</strong> 萬花筒變化單調、物體超出邊界則消失
+    <strong>問題 2：</strong> 星輪幻彩（萬花筒）：變化單調、物體超出邊界則消失
     <br><br>
     <strong>解決方式：</strong>
     <ul>
