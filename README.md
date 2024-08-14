@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/a51c7b65-aeb9-4f41-82e2-6c074c88a9b5
+
+
 軟體：使用 Processing 語言（Java）製作
 
 介紹：
@@ -20,8 +23,6 @@
 2. 超出邊界的物體，再次初始化 x、y 位置，並重複播放
 
 
-
-https://github.com/user-attachments/assets/0298dcc3-b21b-42b8-9514-b6f574cfba79
 
 
 
